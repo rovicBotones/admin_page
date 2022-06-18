@@ -1,0 +1,82 @@
+html,
+body {
+    height: 100%;
+    font-size: 1rem;
+
+}
+
+.gradient {
+    background-color: #BE8C63;
+}
+
+.pricing {
+    background-color: #BE8C63;
+}
+
+.page-header {
+
+    font-size: 1.25rem;
+    color: #ffff;
+    font-family: 'Montserrat', sans-serif;
+    height: 500px;
+}
+
+.section-team {
+    font-size: 1rem;
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+    height: 500px;
+}
+
+.section-pricing {
+    font-size: 1rem;
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+    height: 500px;
+}
+
+img {
+    max-height: 2rem;
+    max-width: 2rem;
+}
+
+.img-beneficiary {
+    max-height: 30rem;
+    max-width: 20rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+}
+
+.section {
+    font-size: 1.25rem;
+    color: #ffff;
+    font-family: 'Montserrat', sans-serif;
+    height: 600px;
+    background-color: #BE8C63;
+}
+
+
+
+table.form {
+    margin-top: 5%;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid black;
+    width: 25%;
+    background-color: #BE8C63;
+    box-shadow: 5px 10px 18px #888888;
+}
+
+td,
+tr {
+    margin-top: 3%;
+    margin-bottom: 3%;
+    padding: 4%;
+    text-align: center;
+}
+
+p {
+    font-size: 1rem;
+}
